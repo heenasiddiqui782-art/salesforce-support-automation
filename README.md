@@ -29,7 +29,7 @@ From managing IoT field sensor errors to optimizing crop health inquiries, this 
 
 > 💡 **Developer Note:** Place your polished application screenshot or demo video/GIF below to showcase your system in action!
 
-![OrgFarm EPIC Dashboard](path/to/your/polished-screenshot.png)
+![OrgFarm EPIC Dashboard]https://github.com/heenasiddiqui782-art/salesforce-support-automation/commit/405de819dc6985108ccc2d6e17cbcd8ef51e297e#diff-65dd2c487e2599e5c098e8b2504fb9722c470fc1fb7908e18fa0300ef1ca505c
 
 *An overview of the custom branded OrgFarm EPIC operations layout, optimized for sustainable farm management.*
 
